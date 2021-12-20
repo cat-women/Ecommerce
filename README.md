@@ -5,7 +5,7 @@ Technologies used:
 2. Boostrap 
 3. tailwind css
 4. MySQL
-
+5. Javascript 
 Prerequisite 
 •	Xampp server
 •	Window 7 or plus
