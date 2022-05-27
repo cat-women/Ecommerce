@@ -13,4 +13,4 @@ The most advance and important feature of this project is the User can pay by pa
 
 
 
-### NOTE:  for more details, ER,dfd and other diagram refer to doc.pdf file. 
+### NOTE:  for more details, ER,dfd and other diagram refer to doc.pdf file [here](https://github.com/cat-women/licence_tracker/blob/master/finalDoc.pdf). 
